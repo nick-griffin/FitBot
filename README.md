@@ -19,6 +19,20 @@ Sign in tab(Complete)
 
 Sign up tab(Complete)
 
-
 Info tab(Complete)
 
+Room databases(Complete)
+
+Python backend(Complete)
+
+Home tab (incomplete)
+
+Fitness tab (incomplete)
+
+Nutrition tab (incomplete)
+
+Progress tab (incomplete)
+
+Upload python backend to remote server (incomplete)
+
+backend integration (incomplete)
