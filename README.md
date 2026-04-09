@@ -11,3 +11,14 @@ FastAPI backend to handle user data and integrate AI-generated responses through
 
 
 Room database to store and manage user profile and fitness data
+
+Progress:
+
+
+Sign in tab(Complete)
+
+Sign up tab(Complete)
+
+
+Info tab(Complete)
+
